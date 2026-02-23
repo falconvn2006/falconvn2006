@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "vi"
+languageName = "Vietnamese"
+weight = 1
+
+[params]
+  displayName = "VI"
+  isoCode = "vi"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+   name = "Bùi Trung Tín"
+   image = "profile.jpg"
+   headline = "Một người thích lập trình"
+   description = "A little bit about you" # appears in author card for each article

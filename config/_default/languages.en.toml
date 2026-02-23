@@ -1,0 +1,10 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+[params.author]
+   name = "Trung Tin Bui"
+   image = "profile.jpg"
+   headline = "A guy who likes programming"
+   description = "A little bit about you" # appears in author card for each article
