@@ -12,5 +12,8 @@ weight = 1
 [params.author]
    name = "Bùi Trung Tín"
    image = "profile.jpg"
-   headline = "Một người thích lập trình"
-   description = "A little bit about you" # appears in author card for each article
+   headline = "Một người thích học về những thứ lung tung"
+   bio = "Sorry tui không giỏi xã giao" # appears in author card for each article
+   links = [
+    { github = "https://github.com/falconvn2006" }
+   ]
