@@ -6,7 +6,7 @@ weight = 1
 [params.author]
    name = "Trung Tin Bui"
    image = "profile.jpg"
-   headline = "A guy who likes learning random "
+   headline = "A guy who likes learning random stuff"
    bio = "Sorry I'm bad at socializing. Only talk to me if you play Helldivers 2" # appears in author card for each article
    links = [
     { github = "https://github.com/falconvn2006" }
