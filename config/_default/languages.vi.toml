@@ -15,5 +15,6 @@ weight = 1
    headline = "Một người thích học về những thứ lung tung"
    bio = "Sorry tui không giỏi xã giao" # appears in author card for each article
    links = [
-    { github = "https://github.com/falconvn2006" }
+    { github = "https://github.com/falconvn2006" },
+    { facebook = "https://www.facebook.com/bui.trung.tin.2006"}
    ]

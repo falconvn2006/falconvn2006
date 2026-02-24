@@ -1,0 +1,9 @@
+enableCodeCopy = true
+backgroundImageWidth = 1200
+defaultBackgroundImage = "background.svg" # used as default for background images
+imagePosition = "50% 50%"
+
+[homepage]
+    layout = "hero"
+    showRecent = true
+
